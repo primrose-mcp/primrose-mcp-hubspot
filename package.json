@@ -1,5 +1,5 @@
 {
-  "name": "lineer-mcp-hubspot",
+  "name": "primrose-mcp-hubspot",
   "version": "1.0.0",
   "description": "CRM MCP Server for Cloudflare Workers",
   "type": "module",
